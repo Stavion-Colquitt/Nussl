@@ -3,7 +3,7 @@
 
 **Flexible easy-to-use audio source separation**
  
-[![Tests](https://github.com/Stavion-Colquitt/nussl/actions/workflows/tests.yml/badge.svg?branch=modernize)](https://github.com/Stavion-Colquitt/nussl/actions/workflows/tests.yml)
+[![Tests](https://github.com/Stavion-Colquitt/Nussl/actions/workflows/tests.yml/badge.svg?branch=modernize)](https://github.com/Stavion-Colquitt/Nussl/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -142,7 +142,7 @@ This fork is not on PyPI (`pip install nussl` gets the original, archived releas
 Install it from GitHub:
 
 ```
-$ pip install "nussl @ git+https://github.com/Stavion-Colquitt/nussl@modernize"
+$ pip install "nussl @ git+https://github.com/Stavion-Colquitt/Nussl@modernize"
 ```
 
 **Note: Requires python 3.10+** (tested on 3.10, 3.12 and 3.13).
