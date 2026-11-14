@@ -18,6 +18,9 @@
 > and PyTorch, works around the retired External File Zoo, and adds new algorithms. All
 > credit for Nussl itself goes to its original authors; see [CHANGES_FORK.md](CHANGES_FORK.md)
 > for exactly what changed here.
+>
+> **AI disclosure:** The fork's changes were made with AI assistance (Claude, by Anthropic) for writing code and
+> documentation. All creative and technical decisions in them are mine, and I reviewed everything before publishing.
 
 nussl (pronounced ["nuzzle"](http://www.thefreedictionary.com/nuzzle)) is a flexible, object oriented
 Python audio source separation library created by the 
